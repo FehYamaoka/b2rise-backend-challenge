@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "Bem-vindo(a) ao desafio Backend!",
     "main": "index.js",
-    "directories": {
-        "test": "src/typescript/__test__"
-    },
     "scripts": {
         "test": "jest"
     },

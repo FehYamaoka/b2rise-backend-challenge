@@ -19,4 +19,4 @@ const data: Props[] = [
 
 const result = extractValues(data, 'name');
 
-console.log('Resultado: ', result);
+console.log(result);
